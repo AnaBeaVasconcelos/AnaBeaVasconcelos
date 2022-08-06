@@ -35,8 +35,6 @@
 
 ###
 
-<img align="left" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" width="42" alt="raspberrypi logo"  />
@@ -64,6 +62,8 @@
 </div>
 
 ###
+
+<img align="left" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 <img align="right" height="180" width="180" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
 
