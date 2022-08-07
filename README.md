@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
+<img align="right" height="180" width="180" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
+
 <div align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
 
 <h2 align="center"> Hello Word, I am Beatriz, and I'm a 19 years old</h2>
 </div>
@@ -63,10 +65,6 @@
 
 ###
 
-<img align="left" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
-<img align="right" height="180" width="180" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
-
 
 ###
 <!--<details>
@@ -94,9 +92,10 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 </details>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>-->
 
+<div align="center">
+<img width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+
 <br clear="both">
 
 ![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
-
-###
-
+</div>
