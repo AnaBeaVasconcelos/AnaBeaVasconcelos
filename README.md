@@ -98,4 +98,7 @@ I love sharing knowledge and putting tutorials and posts together for helping ot
 <br clear="both">
 
 ![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qguzjop0e43sth8yjtbr5xije&width=1000)
