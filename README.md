@@ -1,12 +1,9 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>-->
-
 <img align="right" height="200" width="200" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
 
 <div align="center">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
 
-<h2 align="center"> Hello Word, I am Beatriz, and I'm a 19 years old</h2>
-</div>
+<h2 align="center"> Hello Word! I am Beatriz, and I'm a 19 years old</h2>
 
 <div align="center">
 <h3 align="center"> :mailbox: Reach out to me! </h3>
@@ -24,13 +21,6 @@
   </a>
 </div>
 
-##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&username=AnaBeaVasconcelos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=true&username=AnaBeaVasconcelos" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h3 align="center">Already know</h3>
@@ -43,8 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
@@ -54,51 +44,28 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" width="42" alt="android studio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
 ###
 
-
-###
-<!--<details>
-<summary style="font-size:50px;">
-&nbsp;<h2>More info, click here</h2>&nbsp;
-  
-  
-</summary>
-
-  <br>
-  
-I love sharing knowledge and putting tutorials and posts together for helping other developers.
-
-<p align="center"><img src="https://readme-jokes.vercel.app/api/"></p>
-
-## Coding Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnaBeaVasconcelos&layout=compact&theme=gruvbox&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
-
-## Github Stats
-
-<p align="center"><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="./profile-summary-card-output/github_dark//2-most-commit-language.svg"></p>
-
-<p align="center">
-<img src="./github-metrics.svg"/>
-</details>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>-->
-
+### Git Stats
 <div align="center">
-<img width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
-
-<br clear="both">
-
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaBeaVasconcelos&theme=tokyonight"/> 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=AnaBeaVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeaVasconcelos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaBeaVasconcelos&theme=tokyonight&hide_border=true"/>
+  
+###
+  
 ![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qguzjop0e43sth8yjtbr5xije&width=1000)
+<!-- ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qguzjop0e43sth8yjtbr5xije&width=1000) -->
