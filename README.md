@@ -3,7 +3,7 @@
 <div align="center">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
 
-<h2 align="center"> Hello Word! I am Beatriz, and I'm a 19 years old</h2>
+<h2 align="center"> Hello Word! I am Beatriz, and I'm a 20 years old</h2>
 
 <div align="center">
 <h3 align="center"> :mailbox: Reach out to me! </h3>
