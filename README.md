@@ -3,8 +3,6 @@
 
 <div align="center">
   <a href="https://app.daily.dev/Alyx"><img src="https://api.daily.dev/devcards/a70f1f7b5c054d96b281c3cd89f9d272.png?r=a0s" align="left"  width="300"  alt="Ana Beatriz Vasconcelos's Dev Card"/></a>
-  
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
 
 <h2 align="center"> I'm Beatriz, and I'm a 20 years old</h2>
 
