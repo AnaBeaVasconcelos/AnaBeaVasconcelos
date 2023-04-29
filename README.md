@@ -66,8 +66,8 @@
   
 <div align="center">
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeavasconcelos&theme=tokyonight"/> 
-  <a href="https://app.daily.dev/Alyx"><img src="https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/main/devcard.svg" align="right" width="250" alt="Ana Beatriz Vasconcelos's Dev Card"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=anabeavasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
+  <a href="https://app.daily.dev/Alyx"><img src="https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/main/devcard.svg" align="right" width="230" alt="Ana Beatriz Vasconcelos's Dev Card"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anabeavasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeavasconcelos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> 
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anabeavasconcelos&theme=tokyonight&hide_border=true"/>
   
