@@ -60,7 +60,7 @@
 ###
   
 ### Git Status
-  <a href="https://app.daily.dev/Alyx"><img src="https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/main/devcard.svg" width="200" align="right" alt="Ana Beatriz Vasconcelos's Dev Card"/></a>
+  <a href="https://app.daily.dev/Alyx"><img src="https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/main/devcard.svg" width="300" align="right" alt="Ana Beatriz Vasconcelos's Dev Card"/></a>
   
 <div align="left">
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeavasconcelos&theme=tokyonight"/> 
