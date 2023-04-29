@@ -1,9 +1,12 @@
 <img align="right" height="200" width="200" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
 
+
 <div align="center">
+  <a href="https://app.daily.dev/Alyx"><img src="https://api.daily.dev/devcards/a70f1f7b5c054d96b281c3cd89f9d272.png?r=a0s" align="left"  width="300"  alt="Ana Beatriz Vasconcelos's Dev Card"/></a>
+  
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AnaB.AnaB&color=9cf" />
 
-<h2 align="center"> Hello Word! I am Beatriz, and I'm a 20 years old</h2>
+<h2 align="center"> I'm Beatriz, and I'm a 20 years old</h2>
 
 <div align="center">
 <h3 align="center"> :mailbox: Reach out to me! </h3>
@@ -57,7 +60,7 @@
 
 ###
   
-### Git Stats
+### Git Status
 <div align="center">
 <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeavasconcelos&theme=tokyonight"/> 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=anabeavasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeavasconcelos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anabeavasconcelos&theme=tokyonight&hide_border=true"/>
