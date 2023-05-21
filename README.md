@@ -38,6 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   </div>
+  
+ 
 
 ###
   <h3 align="center">Currently learning</h3>
@@ -64,10 +66,11 @@
   
   <div align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabeavasconcelos&theme=tokyonight"/> 
-    <a href="https://app.daily.dev/Alyx"><img src="https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/main/devcard.svg" align="right" width="230" height="500" alt="Ana Beatriz Vasconcelos's Dev Card"/>
+<!--     <a href="https://app.daily.dev/Alyx"><img src="https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/main/devcard.svg" align="right" width="230" height="500" alt="Ana Beatriz Vasconcelos's Dev Card"/> -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=anabeavasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabeavasconcelos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=anabeavasconcelos&theme=tokyonight&hide_border=true"/>
+    <img src="https://card.exophase.com/2/0/214865.png?1684628033"/>
   
   </div>
   
