@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
   
-  <img align="right" height="250" width="250" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"  />
+  <img align="right" height="250" width="250" src="https://i.ibb.co/KjJsyZ6/picasion-com-69fe11dd8e31875524e32e9d823c192e.gif"/>
 </div>
 
 
