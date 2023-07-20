@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h2 align="center"> I'm Beatriz, and I'm a 20 years old</h2>
+<h2 align="center"> I'm Beatriz, and I have 20 years old</h2>
 
 <div align="center">
 <h3 align="center"> :mailbox: Reach out to me! </h3>
