@@ -76,7 +76,7 @@
   
 <div align="center">
    
-![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
